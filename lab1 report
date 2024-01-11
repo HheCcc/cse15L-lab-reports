@@ -1,0 +1,9 @@
+* Lab1 Report
+
+
+**  For the commands 'cd'
+1. an example of using the command with no arguments
+'''
+#code blcok
+[user@sahara ~]$ cd
+'''
